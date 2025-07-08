@@ -1,9 +1,74 @@
-# Preface {.unnumbered}
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
 
-This is a Quarto book.
+# Welcome {.unnumbered}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This interactive book provides a comprehensive framework for designing
+contemporary ACL graft research studies using simulation-based
+methodology and modern clinical trial design principles.
 
-```{r}
-1 + 1
-```
+## Who This Book Is For
+
+-   Orthopedic surgeons planning ACL research studies
+
+-   Clinical researchers seeking to understand modern trial design
+
+-   Biostatisticians working on surgical intervention studies
+
+-   Graduate students in clinical research or biostatistics
+
+-   Research coordinators involved in orthopaedic trials
+
+## How to Use This Book
+
+This book is designed to be interactive and practical. Each chapter
+includes:
+
+-   Conceptual explanations of key principles
+
+-   Working R code for implementation
+
+-   Interactive visualizations for exploration
+
+-   Practical templates for real-world application
+
+::: callout-tip
+Getting Started If you're new to ACL research, start with the
+Introduction chapter. If you're familiar with the basics, you might jump
+to the Study Design or Modern Approaches chapters.
+:::
+
+## Book Structure
+
+The book is organized into four main parts:
+
+-   Study Design Fundamentals - Core concepts and framework
+
+-   Methodological Approaches - Advanced techniques and considerations
+
+-   Quality and Analysis - Ensuring rigor and proper analysis
+
+-   Appendices - Reference materials and templates
+
+## Interactive Features
+
+This book includes several interactive elements:
+
+-   Parameter exploration - Adjust study parameters to see their effects
+
+-   Simulation demonstrations - Run analyses with different assumptions
+
+-   Template downloads - Get practical tools for your research
+
+-   Code examples - Copy and adapt for your own studies
+
+## Acknowledgments
+
+This work builds upon the contributions of numerous researchers in
+orthopedic surgery, clinical trial methodology, and biostatistics.
+
+Ready to begin? Start with the Introduction or browse the chapter
+navigation in the sidebar.

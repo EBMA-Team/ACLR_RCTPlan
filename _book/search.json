@@ -1,0 +1,73 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
+    "section": "",
+    "text": "Welcome\nThis interactive book provides a comprehensive framework for designing contemporary ACL graft research studies using simulation-based methodology and modern clinical trial design principles.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "chapters/01-introduction.html",
+    "href": "chapters/01-introduction.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\nShow code\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "Study Design Fundamentals",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#who-this-book-is-for",
+    "href": "index.html#who-this-book-is-for",
+    "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
+    "section": "Who This Book Is For",
+    "text": "Who This Book Is For\n\nOrthopedic surgeons planning ACL research studies\nClinical researchers seeking to understand modern trial design\nBiostatisticians working on surgical intervention studies\nGraduate students in clinical research or biostatistics\nResearch coordinators involved in orthopaedic trials",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-book",
+    "href": "index.html#how-to-use-this-book",
+    "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
+    "section": "How to Use This Book",
+    "text": "How to Use This Book\nThis book is designed to be interactive and practical. Each chapter includes:\n\nConceptual explanations of key principles\nWorking R code for implementation\nInteractive visualizations for exploration\nPractical templates for real-world application\n\n\n\n\n\n\n\nTip\n\n\n\nGetting Started If you’re new to ACL research, start with the Introduction chapter. If you’re familiar with the basics, you might jump to the Study Design or Modern Approaches chapters.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#book-structure",
+    "href": "index.html#book-structure",
+    "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
+    "section": "Book Structure",
+    "text": "Book Structure\nThe book is organized into four main parts:\n\nStudy Design Fundamentals - Core concepts and framework\nMethodological Approaches - Advanced techniques and considerations\nQuality and Analysis - Ensuring rigor and proper analysis\nAppendices - Reference materials and templates",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#interactive-features",
+    "href": "index.html#interactive-features",
+    "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
+    "section": "Interactive Features",
+    "text": "Interactive Features\nThis book includes several interactive elements:\n\nParameter exploration - Adjust study parameters to see their effects\nSimulation demonstrations - Run analyses with different assumptions\nTemplate downloads - Get practical tools for your research\nCode examples - Copy and adapt for your own studies",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgments",
+    "href": "index.html#acknowledgments",
+    "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nThis work builds upon the contributions of numerous researchers in orthopedic surgery, clinical trial methodology, and biostatistics.\nReady to begin? Start with the Introduction or browse the chapter navigation in the sidebar.",
+    "crumbs": [
+      "Welcome"
+    ]
+  }
+]

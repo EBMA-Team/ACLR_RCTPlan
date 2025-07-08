@@ -5,7 +5,8 @@ project:
 book:
   title: "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks"
   subtitle: "A Simulation-Based Framework for Modern Clinical Trial Design in Orthopaedics"
-   author: 
+
+  author: 
     - name: Corey Scholes
       orcid: 0000-0001-6592-0738
       email: cscholes@ebma.com.au
@@ -13,7 +14,6 @@ book:
       affiliation-url: https://www.ebmanalytics.com.au
       
   date: "2025-Jul-08"
-  date-modified: "2025-Jul-08"
   
   chapters:
     - index.qmd
@@ -44,7 +44,7 @@ book:
 bibliography: references.bib
 
 # Navigation
-  sidebar:
+sidebar:
     style: docked
     search: true
     collapse-level: 2
@@ -54,9 +54,9 @@ bibliography: references.bib
       - section: "Study Design Fundamentals"
         contents:
           - text: "Introduction & Framework"
-            href: chapters/01-introduction.qmd
+            href: 01-introduction.qmd
           - text: "Research Question Development"
-            href: chapters/02-research-question.qmd
+            href: 02-research-question.qmd
           - text: "CONSORT-Based Design"
             href: chapters/03-study-design.qmd
       - section: "Methodological Approaches"
@@ -117,7 +117,7 @@ format:
     number-depth: 3
     cross-ref-hover: true
     
-    epub:
+  epub:
     toc: true
     toc-depth: 3
     number-sections: true
