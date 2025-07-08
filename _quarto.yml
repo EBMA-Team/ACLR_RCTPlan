@@ -1,0 +1,143 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks"
+  subtitle: "A Simulation-Based Framework for Modern Clinical Trial Design in Orthopaedics"
+   author: 
+    - name: Corey Scholes
+      orcid: 0000-0001-6592-0738
+      email: cscholes@ebma.com.au
+      affiliation: EBM Analytics
+      affiliation-url: https://www.ebmanalytics.com.au
+      
+  date: "2025-Jul-08"
+  date-modified: "2025-Jul-08"
+  
+  chapters:
+    - index.qmd
+    - part: "Study Design Fundamentals"
+      chapters:
+        - chapters/01-introduction.qmd
+        - chapters/02-research-question.qmd
+        - chapters/03-study-design.qmd
+    - part: "Methodological Approaches"
+      chapters:
+        - chapters/04-observational-methods.qmd
+        - chapters/05-modern-approaches.qmd
+        - chapters/06-implementation.qmd
+    - part: "Quality and Analysis"
+      chapters:
+        - chapters/07-quality-measures.qmd
+        - chapters/08-practical-considerations.qmd
+        - chapters/09-analysis-demonstrations.qmd
+        - chapters/10-reporting-dissemination.qmd
+    - part: "Appendices"
+      chapters:
+        - appendices/A-ideal-framework.qmd
+        - appendices/B-consort-checklist.qmd
+        - appendices/C-record-guidelines.qmd
+        - appendices/D-simulation-parameters.qmd
+        - appendices/E-templates.qmd
+
+bibliography: references.bib
+
+# Navigation
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 2
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - section: "Study Design Fundamentals"
+        contents:
+          - text: "Introduction & Framework"
+            href: chapters/01-introduction.qmd
+          - text: "Research Question Development"
+            href: chapters/02-research-question.qmd
+          - text: "CONSORT-Based Design"
+            href: chapters/03-study-design.qmd
+      - section: "Methodological Approaches"
+        contents:
+          - text: "Observational Methods"
+            href: chapters/04-observational-methods.qmd
+          - text: "Modern Approaches"
+            href: chapters/05-modern-approaches.qmd
+          - text: "Implementation Strategy"
+            href: chapters/06-implementation.qmd
+      - section: "Quality and Analysis"
+        contents:
+          - text: "Quality Measures"
+            href: chapters/07-quality-measures.qmd
+          - text: "Practical Considerations"
+            href: chapters/08-practical-considerations.qmd
+          - text: "Analysis Demonstrations"
+            href: chapters/09-analysis-demonstrations.qmd
+          - text: "Reporting & Dissemination"
+            href: chapters/10-reporting-dissemination.qmd
+      - section: "Appendices"
+        contents:
+          - text: "IDEAL Framework"
+            href: appendices/A-ideal-framework.qmd
+          - text: "CONSORT Checklist"
+            href: appendices/B-consort-checklist.qmd
+          - text: "RECORD Guidelines"
+            href: appendices/C-record-guidelines.qmd
+          - text: "Simulation Parameters"
+            href: appendices/D-simulation-parameters.qmd
+          - text: "Template Resources"
+            href: appendices/E-templates.qmd
+
+# Output formats
+format:
+  html:
+    theme: 
+      light: [cosmo, styles/custom.scss]
+      dark: [darkly, styles/custom.scss]
+    css: styles/styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-summary: "Show code"
+    code-line-numbers: true
+    code-copy: true
+    fig-width: 10
+    fig-height: 6
+    fig-dpi: 300
+    fig-format: svg
+    df-print: paged
+    smooth-scroll: true
+    link-external-newwindow: true
+    citations-hover: true
+    footnotes-hover: true
+    callout-appearance: default
+    number-sections: true
+    number-depth: 3
+    cross-ref-hover: true
+    
+    epub:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    
+# Global execution options
+execute:
+  warning: false
+  message: false
+  cache: true
+  freeze: auto
+  daemon: false
+
+editor: visual
+
+citation: true
+
+# Cross-references
+crossref:
+  fig-title: "Figure"
+  tbl-title: "Table"
+  fig-prefix: "Figure"
+  tbl-prefix: "Table"
+  chapters: true
