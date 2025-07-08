@@ -1,4 +1,4 @@
-# Study Design
+# The research program
 
 This is a book created from markdown and executable code.
 

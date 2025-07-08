@@ -1,0 +1,19 @@
+{
+  "hash": "b0107055d9240f40aa57d0fbf54160bf",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Hallway\n\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n::: {.conversation}\n\n::: {.speaker .coordinator}\n**Dr. Smith (Research Coordinator):** I'd like to discuss a new study idea focusing on post-operative recovery protocols.\n:::\n\n::: {.speaker .surgeon}\n**Dr. Johnson (Surgeon):** That sounds interesting. What specific outcomes are you hoping to measure?\n:::\n\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

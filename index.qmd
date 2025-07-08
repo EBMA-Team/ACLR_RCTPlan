@@ -1,74 +1,62 @@
----
-editor: 
-  markdown: 
-    wrap: 72
----
-
 # Welcome {.unnumbered}
 
-This interactive book provides a comprehensive framework for designing
-contemporary ACL graft research studies using simulation-based
-methodology and modern clinical trial design principles.
+This interactive book provides a comprehensive framework for designing contemporary ACL graft research studies using simulation-based methodology and modern clinical trial design principles.
+
+## How to Cite This Book
+
+### APA Style
+Scholes, C. (2025). *A contemporary approach to ACL graft research using research and reporting frameworks: A simulation-based framework for modern clinical trial design in orthopaedics*. EBM Analytics. https://your-book-url.com
+
+### Vancouver Style
+Scholes C. A contemporary approach to ACL graft research using research and reporting frameworks: A simulation-based framework for modern clinical trial design in orthopaedics. Australia: EBM Analytics; 2025.
+
+### BibTeX
+```bibtex
+@book{scholes2025acl,
+  title={A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks: A Simulation-Based Framework for Modern Clinical Trial Design in Orthopaedics},
+  author={Scholes, Corey},
+  publisher={EBM Analytics},
+  address={Australia},
+  year={2025},
+  url={https://your-book-url.com},
+  doi={10.xxxx/xxxx}
+}
+```
 
 ## Who This Book Is For
 
--   Orthopedic surgeons planning ACL research studies
-
--   Clinical researchers seeking to understand modern trial design
-
--   Biostatisticians working on surgical intervention studies
-
--   Graduate students in clinical research or biostatistics
-
--   Research coordinators involved in orthopaedic trials
-
-## How to Use This Book
-
-This book is designed to be interactive and practical. Each chapter
-includes:
-
--   Conceptual explanations of key principles
-
--   Working R code for implementation
-
--   Interactive visualizations for exploration
-
--   Practical templates for real-world application
-
-::: callout-tip
-Getting Started If you're new to ACL research, start with the
-Introduction chapter. If you're familiar with the basics, you might jump
-to the Study Design or Modern Approaches chapters.
-:::
+- **Orthopedic surgeons** planning ACL research studies
+- **Clinical researchers** seeking to understand modern trial design
+- **Biostatisticians** working on surgical intervention studies
+- **Graduate students** in clinical research or biostatistics
+- **Research coordinators** involved in orthopedic trials
 
 ## Book Structure
 
 The book is organized into four main parts:
 
--   Study Design Fundamentals - Core concepts and framework
+1. **Study Design Fundamentals** - Core concepts and framework
+2. **Methodological Approaches** - Advanced techniques and considerations
+3. **Quality and Analysis** - Ensuring rigor and proper analysis
+4. **Appendices** - Reference materials and templates
 
--   Methodological Approaches - Advanced techniques and considerations
+## License and Reuse
 
--   Quality and Analysis - Ensuring rigor and proper analysis
+This work is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
--   Appendices - Reference materials and templates
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
 
-## Interactive Features
-
-This book includes several interactive elements:
-
--   Parameter exploration - Adjust study parameters to see their effects
-
--   Simulation demonstrations - Run analyses with different assumptions
-
--   Template downloads - Get practical tools for your research
-
--   Code examples - Copy and adapt for your own studies
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- **NonCommercial** — You may not use the material for commercial purposes
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
 
 ## Acknowledgments
 
-This work builds upon the contributions of numerous researchers in
-orthopedic surgery, clinical trial methodology, and biostatistics.
+This work builds upon the contributions of numerous researchers in orthopedic surgery, clinical trial methodology, and biostatistics...
 
-Ready to begin? Start with the Introduction or browse the chapter
-navigation in the sidebar.
+---
+
+*Ready to begin? Start with the @sec-introduction or browse the chapter navigation in the sidebar.*

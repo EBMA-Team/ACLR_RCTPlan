@@ -1,8 +1,8 @@
 {
-  "hash": "e514ad799b2b10ced9d02b36ca26bbd2",
+  "hash": "87713d19eb79eb32d4ff2df25295d7e9",
   "result": {
     "engine": "knitr",
-    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n::: {.conversation}\n::: {.speaker .coordinator}\n**Dr. Smith (Research Coordinator):** I'd like to discuss a new study idea focusing on post-operative recovery protocols.\n:::\n\n::: {.speaker .surgeon}\n**Dr. Johnson (Surgeon):** That sounds interesting. What specific outcomes are you hoping to measure?\n:::\n:::",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

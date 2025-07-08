@@ -1,0 +1,99 @@
+# Hallway
+
+## Research, with extra fries
+
+The following book and its chapters are going to be laid out a little differently from what you're used to, probably. There will be plenty of concepts and demonstrations and all the good things you would come to expect of a piece that gets you over a lack of fairly niche knowledge. But I am going to wrap around some narrative to make the material as relevant as possible to as many readers as possible.
+
+The nature of clinical orthopaedic research is always that there is never enough skilled staff to address all of the many questions that are raised by a seemingly endless line of stakeholders;
+
+-   Surgeons - individually, or sometimes in small groups
+
+-   Hospital administrators
+
+-   Insurance company executives
+
+-   Medical device representatives, or if you're lucky the research and development, or regulatory unit within the device company
+
+-   Patient advocacy groups or funding bodies
+
+-   Federal and state goverment funding bodies
+
+-   Academic researchers
+
+## The key players
+
+This will be written from the perspective of a competent, dedicated research coordinator, currently working with a surgeon in private practice. We'll ignore the economics and practicalities of that scenario for the moment and introduce our key characters.
+
+### Jeremy
+
+Jeremy has been working in this private practice for 3 years, after 2 years in a public hospital department interstate. He has a Masters of Epidemiology from a reputable institution on a background of a Nursing degree, although he is qualified to practice as a nurse, he hasn't any notable clinical experience. So far his research record is solid - he has published a number of papers from his previous post, as well as in his current role, with a number of conference presentations and a laundry list of papers in progress.
+
+### Helen
+
+Helen is a well-regarded lower limb (hip and knee) sports and emerging arthroplasty surgeon in a metropolitan centre in Australia. She has been in private practice fully for 4 years, after a mixed public-private appointments for 3 years. She has a number of publications to her name, but it has been the appointment of Jeremy as part of the practice that has really accelerated some serious work to better understand some clinically relevant problems.
+
+## The hallway
+
+Being the approachable and enthusiastic surgeon that she is, Helen navigates relationships with her surgical colleagues with ease, much to Jeremy's concern when she returns from really any engagement with a new list of research ideas. On this busy surgical and clinic day, Helen has been able to run into both one of her colleagues that went to the same international conference a few weeks ago and Jeremy - where all good orthopaedic research ideas take shape - the hospital hallway.
+
+It is here in these deceptively narrow corridors where big ideas are birthed, discussed and injected with sufficient enthusiasm to become someone else's problem by the end of the day. Helen has been holding onto an idea for a day or two now and after an inspiring conversation with her surgeon colleague, she is poised to strike on a slow-moving Jeremy, who remains blissfully unaware of how his life is about to change.
+
+Let's check in on what is a fairly typical conversation in this setting;
+
+:::::::::: conversation
+::: {.speaker .surgeon}
+**Dr. Helen (Surgeon):** Oh hey Jeremy - how's the day progressing?
+:::
+
+::: {.speaker .coordinator}
+**Mr Jeremy (Research Coordinator):** Hello Dr Helen - I've just had to rattle some bushes at the Ethics office, but that audit for the incoming fellow in August should be ready to roll as soon as they get in.
+:::
+
+::: {.speaker .surgeon}
+**Helen:** Great, and you've got the slides for next week's presentation ready for me to look at? Oh, and I had a quick look at that flexion deformity paper - did you see my comments?
+:::
+
+::: {.speaker .coordinator}
+**Jeremy:** Slide deck should be in the whatsapp chat for you and I havent seen the comments yet, but I got pinged on the system that your comments were coming through.
+:::
+
+::: {.speaker .surgeon}
+**Helen:** Amazing - while I've got you, I just ran into Dr Charleton and we're both very keen to start with an RCT on the new graft material for ACL reconstruction we saw at the conference in Munich last month.
+:::
+
+------------------------------------------------------------------------
+
+*It was at this point that Jeremy's heart sank, for he new what the mention of an RCT meant for him and his workload for the next four years at least. If he ended the conversation as soon as possible, he hoped it might buy him some time to talk Dr Helen out of the idea at a later time.*
+
+------------------------------------------------------------------------
+
+::: {.speaker .coordinator}
+**Jeremy:** Ah...do you have any material from the conference I could look over? I can review it and get back to you with some thoughts
+:::
+
+::: {.speaker .surgeon}
+**Helen:** Yep, there was a presentation and surgical demonstration - I'll send the link over, could you put something together for our research meeting next week? Ok, I've got to get to theatre...I'll catch you Thursday!
+:::
+::::::::::
+
+With a cheery wave of the hand, Helen turned and proceeded down the hall at the speed of surgeon, to magically appear in theatres for the next case, leaving in her wake a somewhat distraught Jeremy.
+
+## The aftermath
+
+Jeremy had only known about this project for less than 5 minutes and it was already giving him significant grief. He had approximately four working days to come up with either a reasonable plan to execute the trial or produce counter-arguments so strong that they struck the idea a mortal blow, never to be mentioned again.
+
+As he walked back to his desk in the clinical building of the hospital complex, his mind started to reorganise around the concept of a randomised trial with two participating surgeons. As he was a diligent student of the dark arts of clinical research he knew his next steps were to;
+
+-   Generate a briefing document from a review of the initial conference material
+
+    -   Including some pointed questions about what Dr Helen and Dr Charleton had in mind
+
+-   Conduct a literature review and attempt to identify the gap the new graft material addressed
+
+-   Establish what, if any, industry involvement in the new graft type will be likely in the future
+
+-   Identify the key preliminary information required to appropriately plan a randomised trial in private practice
+
+-   Sketch out the viability of conducting the trial in terms of logistics and timeframe
+
+Five actions in five days, Jeremy thought as he reached his office door...what could possibly wrong?

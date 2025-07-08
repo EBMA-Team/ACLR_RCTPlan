@@ -14,7 +14,7 @@
     "href": "chapters/01-introduction.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\nShow code\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "This is a book created from markdown and executable code.\nSee (1) for additional discussion of literate programming.\n\n\nShow code\n1 + 1\n\n\n[1] 2\n\n\n\n\nDr. Smith (Research Coordinator): I’d like to discuss a new study idea focusing on post-operative recovery protocols.\n\n\nDr. Johnson (Surgeon): That sounds interesting. What specific outcomes are you hoping to measure?\n\n\n\n\n\n\n1. Knuth DE. Literate programming. Comput. J. [Internet]. USA: Oxford University Press, Inc.; 1984 May;27(2):97–111. Available from: https://doi.org/10.1093/comjnl/27.2.97",
     "crumbs": [
       "Study Design Fundamentals",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
@@ -25,7 +25,7 @@
     "href": "index.html#who-this-book-is-for",
     "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
     "section": "Who This Book Is For",
-    "text": "Who This Book Is For\n\nOrthopedic surgeons planning ACL research studies\nClinical researchers seeking to understand modern trial design\nBiostatisticians working on surgical intervention studies\nGraduate students in clinical research or biostatistics\nResearch coordinators involved in orthopaedic trials",
+    "text": "Who This Book Is For\n\nOrthopedic surgeons planning ACL research studies\nClinical researchers seeking to understand modern trial design\nBiostatisticians working on surgical intervention studies\nGraduate students in clinical research or biostatistics\nResearch coordinators involved in orthopedic trials",
     "crumbs": [
       "Welcome"
     ]
@@ -65,9 +65,117 @@
     "href": "index.html#acknowledgments",
     "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
     "section": "Acknowledgments",
-    "text": "Acknowledgments\nThis work builds upon the contributions of numerous researchers in orthopedic surgery, clinical trial methodology, and biostatistics.\nReady to begin? Start with the Introduction or browse the chapter navigation in the sidebar.",
+    "text": "Acknowledgments\nThis work builds upon the contributions of numerous researchers in orthopedic surgery, clinical trial methodology, and biostatistics…\n\nReady to begin? Start with the ?sec-introduction or browse the chapter navigation in the sidebar.",
     "crumbs": [
       "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-cite-this-book",
+    "href": "index.html#how-to-cite-this-book",
+    "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
+    "section": "How to Cite This Book",
+    "text": "How to Cite This Book\n\nAPA Style\nScholes, C. (2025). A contemporary approach to ACL graft research using research and reporting frameworks: A simulation-based framework for modern clinical trial design in orthopaedics. EBM Analytics. https://your-book-url.com\n\n\nVancouver Style\nScholes C. A contemporary approach to ACL graft research using research and reporting frameworks: A simulation-based framework for modern clinical trial design in orthopaedics. Australia: EBM Analytics; 2025.\n\n\nBibTeX\n@book{scholes2025acl,\n  title={A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks: A Simulation-Based Framework for Modern Clinical Trial Design in Orthopaedics},\n  author={Scholes, Corey},\n  publisher={EBM Analytics},\n  address={Australia},\n  year={2025},\n  url={https://your-book-url.com},\n  doi={10.xxxx/xxxx}\n}",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#license-and-reuse",
+    "href": "index.html#license-and-reuse",
+    "title": "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks",
+    "section": "License and Reuse",
+    "text": "License and Reuse\nThis work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nYou are free to: - Share — copy and redistribute the material in any medium or format - Adapt — remix, transform, and build upon the material\nUnder the following terms: - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made - NonCommercial — You may not use the material for commercial purposes - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "chapters/01-hallway.html",
+    "href": "chapters/01-hallway.html",
+    "title": "1  Hallway",
+    "section": "",
+    "text": "1.1 Research, with extra fries\nThe following book and its chapters are going to be laid out a little differently from what you’re used to, probably. There will be plenty of concepts and demonstrations and all the good things you would come to expect of a piece that gets you over a lack of fairly niche knowledge. But I am going to wrap around some narrative to make the material as relevant as possible to as many readers as possible.\nThe nature of clinical orthopaedic research is always that there is never enough skilled staff to address all of the many questions that are raised by a seemingly endless line of stakeholders;",
+    "crumbs": [
+      "One job of many",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hallway</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-research-program.html",
+    "href": "chapters/02-research-program.html",
+    "title": "2  Research Question",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee (1) for additional discussion of literate programming.\n\n\nShow code\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\n1. Knuth DE. Literate programming. Comput. J. [Internet]. USA: Oxford University Press, Inc.; 1984 May;27(2):97–111. Available from: https://doi.org/10.1093/comjnl/27.2.97",
+    "crumbs": [
+      "One job of many",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Question</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-rct-question.html",
+    "href": "chapters/03-rct-question.html",
+    "title": "3  Study Design",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee (1) for additional discussion of literate programming.\n\n\nShow code\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\n1. Knuth DE. Literate programming. Comput. J. [Internet]. USA: Oxford University Press, Inc.; 1984 May;27(2):97–111. Available from: https://doi.org/10.1093/comjnl/27.2.97",
+    "crumbs": [
+      "One job of many",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Study Design</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-stakeholders-1.html",
+    "href": "chapters/04-stakeholders-1.html",
+    "title": "4  Observational Methods",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee (1) for additional discussion of literate programming.\n\n\nShow code\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\n1. Knuth DE. Literate programming. Comput. J. [Internet]. USA: Oxford University Press, Inc.; 1984 May;27(2):97–111. Available from: https://doi.org/10.1093/comjnl/27.2.97",
+    "crumbs": [
+      "One job of many",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Observational Methods</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-hallway.html#research-with-extra-fries",
+    "href": "chapters/01-hallway.html#research-with-extra-fries",
+    "title": "1  Hallway",
+    "section": "",
+    "text": "Surgeons - individually, or sometimes in small groups\nHospital administrators\nInsurance company executives\nMedical device representatives, or if you’re lucky the research and development, or regulatory unit within the device company\nPatient advocacy groups or funding bodies\nFederal and state goverment funding bodies\nAcademic researchers",
+    "crumbs": [
+      "One job of many",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hallway</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-hallway.html#the-key-players",
+    "href": "chapters/01-hallway.html#the-key-players",
+    "title": "1  Hallway",
+    "section": "1.2 The key players",
+    "text": "1.2 The key players\nThis will be written from the perspective of a competent, dedicated research coordinator, currently working with a surgeon in private practice. We’ll ignore the economics and practicalities of that scenario for the moment and introduce our key characters.\n\n1.2.1 Jeremy\nJeremy has been working in this private practice for 3 years, after 2 years in a public hospital department interstate. He has a Masters of Epidemiology from a reputable institution on a background of a Nursing degree, although he is qualified to practice as a nurse, he hasn’t any notable clinical experience. So far his research record is solid - he has published a number of papers from his previous post, as well as in his current role, with a number of conference presentations and a laundry list of papers in progress.\n\n\n1.2.2 Helen\nHelen is a well-regarded lower limb (hip and knee) sports and emerging arthroplasty surgeon in a metropolitan centre in Australia. She has been in private practice fully for 4 years, after a mixed public-private appointments for 3 years. She has a number of publications to her name, but it has been the appointment of Jeremy as part of the practice that has really accelerated some serious work to better understand some clinically relevant problems.",
+    "crumbs": [
+      "One job of many",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hallway</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-hallway.html#the-hallway",
+    "href": "chapters/01-hallway.html#the-hallway",
+    "title": "1  Hallway",
+    "section": "1.3 The hallway",
+    "text": "1.3 The hallway\nBeing the approachable and enthusiastic surgeon that she is, Helen navigates relationships with her surgical colleagues with ease, much to Jeremy’s concern when she returns from really any engagement with a new list of research ideas. On this busy surgical and clinic day, Helen has been able to run into both one of her colleagues that went to the same international conference a few weeks ago and Jeremy - where all good orthopaedic research ideas take shape - the hospital hallway.\nIt is here in these deceptively narrow corridors where big ideas are birthed, discussed and injected with sufficient enthusiasm to become someone else’s problem by the end of the day. Helen has been holding onto an idea for a day or two now and after an inspiring conversation with her surgeon colleague, she is poised to strike on a slow-moving Jeremy, who remains blissfully unaware of how his life is about to change.\nLet’s check in on what is a fairly typical conversation in this setting;\n\n\nDr. Helen (Surgeon): Oh hey Jeremy - how’s the day progressing?\n\n\nMr Jeremy (Research Coordinator): Hello Dr Helen - I’ve just had to rattle some bushes at the Ethics office, but that audit for the incoming fellow in August should be ready to roll as soon as they get in.\n\n\nDr. Helen: Great, and you’ve got the slides for next week’s presentation ready for me to look at? Oh, and I had a quick look at that flexion deformity paper - did you see my comments?\n\n\nMr Jeremy: Slide deck should be in the whatsapp chat for you and I havent seen the comments yet, but I got pinged on the system that your comments were coming through.\n\n\nDr. Helen: Amazing - while I’ve got you, I just ran into Dr Charleton and we’re both very keen to start with an RCT on the new graft material for ACL reconstruction we saw at the conference in Munich last month.\n\n\nIt was at this point that Jeremy’s heart sank, for he new what the mention of an RCT meant for him and his workload for the next four years at least. If he ended the conversation as soon as possible, he hoped it might buy him some time to talk Dr Helen out of the idea at a later time.\n\n\nMr Jeremy: Ah…do you have any material from the conference I could look over? I can review it and get back to you with some thoughts\n\n\nDr. Helen: Yep, there was a presentation and surgical demonstration - I’ll send the link over, could you put something together for our research meeting next week? Ok, I’ve got to get to theatre…I’ll catch you Thursday!\n\n\nWith a cheery wave of the hand, Helen turned and proceeded down the hall at the speed of surgeon, to magically appear in theatres for the next case, leaving in her wake a somewhat distraught Jeremy.",
+    "crumbs": [
+      "One job of many",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hallway</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-hallway.html#the-aftermath",
+    "href": "chapters/01-hallway.html#the-aftermath",
+    "title": "1  Hallway",
+    "section": "1.4 The Aftermath",
+    "text": "1.4 The Aftermath\nJeremy had only known about this project for less than 5 minutes and it was already giving him significant grief. He had approximately four working days to come up with either a reasonable plan to execute the trial or a produce counterarguments to strong that they produced a mortal blow to the idea, never to be mentioned again.\nAs he walked back to his desk in the clinical building of the hospital complex, his mind started to reorganise around the concept of a randomised trial with two participating surgeons. As he was a diligent student of the dark arts of clinical research he knew his next steps were to;\n\nGenerate a briefing document from a review of the initial conference material\nConduct a literature review and attempt to identify the gap the new graft material addressed\nEstablish what, if any, industry involvement in the new graft type could be identified\nIdentify the key preliminary information required to appropriately plan a randomised trial in private practice\nSketch out the viability of conducting the trial in terms of logistics and timeframe\n\nFive actions in five days, Jeremy thought as he reached his office door…what could possibly wrong?",
+    "crumbs": [
+      "One job of many",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hallway</span>"
     ]
   }
 ]

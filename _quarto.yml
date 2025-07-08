@@ -5,45 +5,87 @@ project:
 book:
   title: "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks"
   subtitle: "A Simulation-Based Framework for Modern Clinical Trial Design in Orthopaedics"
-
+  
+  # Enhanced author information for citations
   author: 
     - name: Corey Scholes
       orcid: 0000-0001-6592-0738
       email: cscholes@ebma.com.au
-      affiliation: EBM Analytics
-      affiliation-url: https://www.ebmanalytics.com.au
+      affiliation: 
+        - name: EBM Analytics
+          url: https://www.ebmanalytics.com.au
       
-  date: "2025-Jul-08"
+  date: "2025-07-08"
+  
+  # Publication details for citation
+  publisher: "EBM Analytics"
+  publisher-place: "Australia"
+  
+  # DOI if available (replace with actual DOI when published)
+  doi: "10.xxxx/xxxx"  # Remove this line if no DOI yet
+  
+  # ISBN if available (replace with actual ISBN when published)
+  isbn: "978-x-xxxx-xxxx-x"  # Remove this line if no ISBN yet
+  
+  # License information
+  license: "CC BY-NC-SA 4.0"
+  
+  # Description for metadata
+  description: |
+    A comprehensive guide to designing contemporary ACL graft research studies 
+    using simulation-based methodology and modern clinical trial design principles. 
+    This book provides practical frameworks for orthopedic surgeons, clinical 
+    researchers, and biostatisticians working on surgical intervention studies.
+  
+  # Keywords for discoverability
+  # keywords: 
+  #   - ACL reconstruction
+  #   - clinical trial design
+  #   - orthopedic surgery
+  #   - simulation-based research
+  #   - CONSORT guidelines
+  #   - research methodology
+  
+  # Abstract
+  abstract: |
+    This interactive book provides a comprehensive framework for designing 
+    contemporary ACL graft research studies using simulation-based methodology 
+    and modern clinical trial design principles. The book covers study design 
+    fundamentals, methodological approaches, quality measures, and practical 
+    implementation strategies for orthopedic research.
   
   chapters:
     - index.qmd
-    - part: "Study Design Fundamentals"
+    - part: "One job of many"
       chapters:
-        - chapters/01-introduction.qmd
-        - chapters/02-research-question.qmd
-        - chapters/03-study-design.qmd
-    - part: "Methodological Approaches"
-      chapters:
-        - chapters/04-observational-methods.qmd
-        - chapters/05-modern-approaches.qmd
-        - chapters/06-implementation.qmd
-    - part: "Quality and Analysis"
-      chapters:
-        - chapters/07-quality-measures.qmd
-        - chapters/08-practical-considerations.qmd
-        - chapters/09-analysis-demonstrations.qmd
-        - chapters/10-reporting-dissemination.qmd
-    - part: "Appendices"
-      chapters:
-        - appendices/A-ideal-framework.qmd
-        - appendices/B-consort-checklist.qmd
-        - appendices/C-record-guidelines.qmd
-        - appendices/D-simulation-parameters.qmd
-        - appendices/E-templates.qmd
+        - chapters/01-hallway.qmd  # Fixed path
+        - chapters/02-research-program.qmd  # Fixed path
+        - chapters/03-rct-question.qmd
+        - chapters/04-stakeholders-1.qmd
+    # - part: "Methodological Approaches"
+    #   chapters:
+    #     - chapters/04-observational-methods.qmd
+    #     - chapters/05-modern-approaches.qmd
+    #     - chapters/06-implementation.qmd
+    # - part: "Quality and Analysis"
+    #   chapters:
+    #     - chapters/07-quality-measures.qmd
+    #     - chapters/08-practical-considerations.qmd
+    #     - chapters/09-analysis-demonstrations.qmd
+    #     - chapters/10-reporting-dissemination.qmd
+    # - part: "Appendices"
+    #   chapters:
+    #     - appendices/A-ideal-framework.qmd
+    #     - appendices/B-consort-checklist.qmd
+    #     - appendices/C-record-guidelines.qmd
+    #     - appendices/D-simulation-parameters.qmd
+    #     - appendices/E-templates.qmd
 
+# Bibliography configuration
 bibliography: references.bib
+csl: vancouver.csl  # Add citation style - vancouver is common for medical texts
 
-# Navigation
+# Navigation - Fixed href paths
 sidebar:
     style: docked
     search: true
@@ -51,44 +93,46 @@ sidebar:
     contents:
       - text: "Home"
         href: index.qmd
-      - section: "Study Design Fundamentals"
+      - section: "One job of many"
         contents:
-          - text: "Introduction & Framework"
-            href: 01-introduction.qmd
-          - text: "Research Question Development"
-            href: 02-research-question.qmd
-          - text: "CONSORT-Based Design"
-            href: chapters/03-study-design.qmd
-      - section: "Methodological Approaches"
-        contents:
-          - text: "Observational Methods"
-            href: chapters/04-observational-methods.qmd
-          - text: "Modern Approaches"
-            href: chapters/05-modern-approaches.qmd
-          - text: "Implementation Strategy"
-            href: chapters/06-implementation.qmd
-      - section: "Quality and Analysis"
-        contents:
-          - text: "Quality Measures"
-            href: chapters/07-quality-measures.qmd
-          - text: "Practical Considerations"
-            href: chapters/08-practical-considerations.qmd
-          - text: "Analysis Demonstrations"
-            href: chapters/09-analysis-demonstrations.qmd
-          - text: "Reporting & Dissemination"
-            href: chapters/10-reporting-dissemination.qmd
-      - section: "Appendices"
-        contents:
-          - text: "IDEAL Framework"
-            href: appendices/A-ideal-framework.qmd
-          - text: "CONSORT Checklist"
-            href: appendices/B-consort-checklist.qmd
-          - text: "RECORD Guidelines"
-            href: appendices/C-record-guidelines.qmd
-          - text: "Simulation Parameters"
-            href: appendices/D-simulation-parameters.qmd
-          - text: "Template Resources"
-            href: appendices/E-templates.qmd
+          - text: "The hallway"
+            href: chapters/01-hallway.qmd  # Fixed path
+          - text: "Alone in an office"
+            href: chapters/02-research-program.qmd  # Fixed path
+          - text: "The conversation - 1"
+            href: chapters/03-rct-question.qmd
+          - text: "Smiles and handshakes"
+            href: chapters/04-stakeholders-1.qmd
+      # - section: "Methodological Approaches"
+      #   contents:
+      #     - text: "Observational Methods"
+      #       href: chapters/04-observational-methods.qmd
+      #     - text: "Modern Approaches"
+      #       href: chapters/05-modern-approaches.qmd
+      #     - text: "Implementation Strategy"
+      #       href: chapters/06-implementation.qmd
+      # - section: "Quality and Analysis"
+      #   contents:
+      #     - text: "Quality Measures"
+      #       href: chapters/07-quality-measures.qmd
+      #     - text: "Practical Considerations"
+      #       href: chapters/08-practical-considerations.qmd
+      #     - text: "Analysis Demonstrations"
+      #       href: chapters/09-analysis-demonstrations.qmd
+      #     - text: "Reporting & Dissemination"
+      #       href: chapters/10-reporting-dissemination.qmd
+      # - section: "Appendices"
+      #   contents:
+      #     - text: "IDEAL Framework"
+      #       href: appendices/A-ideal-framework.qmd
+      #     - text: "CONSORT Checklist"
+      #       href: appendices/B-consort-checklist.qmd
+      #     - text: "RECORD Guidelines"
+      #       href: appendices/C-record-guidelines.qmd
+      #     - text: "Simulation Parameters"
+      #       href: appendices/D-simulation-parameters.qmd
+      #     - text: "Template Resources"
+      #       href: appendices/E-templates.qmd
 
 # Output formats
 format:
@@ -117,6 +161,17 @@ format:
     number-depth: 3
     cross-ref-hover: true
     
+    # Enable citation display
+    citation:
+      type: book
+      title: "A Contemporary Approach to ACL Graft Research Using Research and Reporting Frameworks"
+      # subtitle: "A Simulation-Based Framework for Modern Clinical Trial Design in Orthopaedics"
+      author: "Corey Scholes"
+      publisher: "EBM Analytics"
+      publisher-place: "Australia"
+      issued: "2025-07-08"
+      url: "https://your-book-url.com"  # Replace with actual URL
+      
   epub:
     toc: true
     toc-depth: 3
@@ -132,8 +187,6 @@ execute:
 
 editor: visual
 
-citation: true
-
 # Cross-references
 crossref:
   fig-title: "Figure"
@@ -141,3 +194,6 @@ crossref:
   fig-prefix: "Figure"
   tbl-prefix: "Table"
   chapters: true
+
+# Language settings
+lang: en-AU  # Australian English
