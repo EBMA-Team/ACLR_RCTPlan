@@ -1,9 +1,23 @@
 # The research program
 
-This is a book created from markdown and executable code.
+## First things first
 
-See @knuth84 for additional discussion of literate programming.
+-   Generate a briefing document from a review of the initial conference material
 
-```{r}
-1 + 1
-```
+    -   Including some pointed questions about what Dr Helen and Dr Charleton had in mind
+
+## Hive mind
+
+-   Conduct a literature review and attempt to identify the gap the new graft material addresses
+
+## Firewall
+
+-   Establish what, if any, industry involvement in the new graft type will be likely in the future
+
+-   Identify the key preliminary information required to appropriately plan a randomised trial in private practice
+
+-   Sketch out the viability of conducting the trial in terms of logistics and timeframe
+
+
+
+

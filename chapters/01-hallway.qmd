@@ -16,7 +16,9 @@ The nature of clinical orthopaedic research is always that there is never enough
 
 -   Patient advocacy groups or funding bodies
 
--   Federal and state goverment funding bodies
+-   Federal and state government funding bodies
+
+-   Philanthropic organisations
 
 -   Academic researchers
 
@@ -30,7 +32,7 @@ Jeremy has been working in this private practice for 3 years, after 2 years in a
 
 ### Helen
 
-Helen is a well-regarded lower limb (hip and knee) sports and emerging arthroplasty surgeon in a metropolitan centre in Australia. She has been in private practice fully for 4 years, after a mixed public-private appointments for 3 years. She has a number of publications to her name, but it has been the appointment of Jeremy as part of the practice that has really accelerated some serious work to better understand some clinically relevant problems.
+Helen is a well-regarded lower limb (hip and knee) sports and emerging arthroplasty surgeon in a metropolitan centre in Australia. She has been in private practice fully for 4 years, after a mixed public-private appointments for 3 years. She has a number of publications to her name, but it has been the appointment of Jeremy as part of the practice that has really accelerated work to better understand some clinically relevant problems.
 
 ## The hallway
 
@@ -50,11 +52,11 @@ Let's check in on what is a fairly typical conversation in this setting;
 :::
 
 ::: {.speaker .surgeon}
-**Helen:** Great, and you've got the slides for next week's presentation ready for me to look at? Oh, and I had a quick look at that flexion deformity paper - did you see my comments?
+**Helen:** Great, and you've got the slides for next week's presentation ready for me to look at? Oh, and I had a quick look at that flexion measurement paper - did you see my comments?
 :::
 
 ::: {.speaker .coordinator}
-**Jeremy:** Slide deck should be in the whatsapp chat for you and I havent seen the comments yet, but I got pinged on the system that your comments were coming through.
+**Jeremy:** Slide deck should be in the whatsapp chat for you and I havent seen the comments yet, but I got pinged on the system that yours were coming through.
 :::
 
 ::: {.speaker .surgeon}
@@ -63,7 +65,7 @@ Let's check in on what is a fairly typical conversation in this setting;
 
 ------------------------------------------------------------------------
 
-*It was at this point that Jeremy's heart sank, for he new what the mention of an RCT meant for him and his workload for the next four years at least. If he ended the conversation as soon as possible, he hoped it might buy him some time to talk Dr Helen out of the idea at a later time.*
+*It was at this point that Jeremy's heart sank, for he knew what the mention of an RCT meant for him and his workload for the next four years at least. If he ended the conversation as soon as possible, he hoped it might buy him some time to talk Dr Helen out of the idea at a later time.*
 
 ------------------------------------------------------------------------
 
@@ -80,7 +82,7 @@ With a cheery wave of the hand, Helen turned and proceeded down the hall at the 
 
 ## The aftermath
 
-Jeremy had only known about this project for less than 5 minutes and it was already giving him significant grief. He had approximately four working days to come up with either a reasonable plan to execute the trial or produce counter-arguments so strong that they struck the idea a mortal blow, never to be mentioned again.
+He had only known about this project for less than 5 minutes and it was already giving him considerable grief. He had approximately four working days to come up with either a reasonable plan to execute the trial or produce counter-arguments so strong that they struck the idea a mortal blow, never to be mentioned again.
 
 As he walked back to his desk in the clinical building of the hospital complex, his mind started to reorganise around the concept of a randomised trial with two participating surgeons. As he was a diligent student of the dark arts of clinical research he knew his next steps were to;
 
@@ -96,4 +98,4 @@ As he walked back to his desk in the clinical building of the hospital complex, 
 
 -   Sketch out the viability of conducting the trial in terms of logistics and timeframe
 
-Five actions in five days, Jeremy thought as he reached his office door...what could possibly wrong?
+Five actions in four days, Jeremy thought as he reached his office door...what could possibly go wrong?
