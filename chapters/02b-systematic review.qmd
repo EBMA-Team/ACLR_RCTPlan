@@ -1,0 +1,21 @@
+# The systematic review
+
+Jeremy had recently finished a (fairly niche) course on clinical research in practice and recalled that for a quick appraisal the first port of call is to review the meta-evidence on the topic to see where the gaps may be.
+
+Because he kept his ear to the ground on new papers that might be relevant, he remembered a review that might address this question head on;
+
+::: {#review-citation style="color: gray"}
+> White, T., Castro, M., Antonio, L., Hing, W., Tudor, F., & Sattler, L. (2025). Quadriceps, hamstring and patella tendon autografts for primary anterior cruciate ligament reconstruction demonstrate similar clinical outcomes, including graft failure, joint laxity and complications: A systematic review with meta-analysis of randomised controlled trials. Knee Surgery, Sports Traumatology, Arthroscopy: Official Journal of the ESSKA. <https://doi.org/10.1002/ksa.12755>
+:::
+
+## Quality first
+
+Before taking the findings as gospel and keeping in mind the purpose of this exercise (find the gaps), Jeremy took a blowtorch to the paper to see if the implied question he had been given had already been answered.
+
+A first reading of the abstract raised some flags from the get-go. The total sample size was relatively small (12 trials, N = 636) for three graft types, with outcomes that included procedure survival. Survival, or time-to-event, is notoriously sample-hungry, so the findings might be pushing the limits.
+
+The other issue off the bat was the I^2^ was 0% for all of the results. We know that the I^2^ measures the proportion of total variability in the outcome measure due to between-study heterogeneity, not the degree of heterogeneity itself ([Riley, 2022](https://x.com/Richard_D_Riley/status/1490956470245990404)). So in this case, between-study heterogeneity makes up zero of the variability in the outcomes. On face value, this seems...odd, and part of the debate around fixed-effect vs random-effects models for meta-analysis implies that at some critical threshold of heterogeneity, a random-effects model just becomes a fixed effects model anyway [@riley2011]. So these results are saying that all of the studies are saying the same thing and are estimating the same treatment effect - Jeremy flagged this in his notes to unpack in more detail.
+
+He pushed away from the desk and wandered downstairs to the coffee shop at the entrance of the hospital, overpriced sure, but Gianni knew his order and looked after him when he needed to pick up the bevaraginos for the fortnightly research meetings. This was going to need some combination of sugar and caffeine.
+
+On return to the problem, Jeremy flicked through his course notes and reviewed the meta-evidence section and recalled the general principles for assessing systematic reviews, PRISMA reporting guidelines, open science (pre-registered protocol would be grouse) and GRADE evidence. He zipped down to the methods section and looked for versions the authors may have presented - at least this would be a starting point. Let's start with the Open Science Framework entry he thought. His initial hopes started to quickly fade as he clicked through the entry and realised that the OSF entry only contained the protocol and no other attachments. Back in the methods section, there is mention of supplementary material - we might get lucky still. "Fuck's sake" he muttered relatively loudly as he scanned the material and still found no checklist to work from - "I'll rip through a quick one myself just to put this in context" he thought to himself as he opened up the EQUATOR network and clicked on the Shiny app version of the checklist from [@page2021].
